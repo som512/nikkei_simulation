@@ -1,1 +1,0 @@
-# nikkei_simulation
